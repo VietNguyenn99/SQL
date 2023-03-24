@@ -1,36 +1,3 @@
-
-
-|DANG KI|masv|mamh|hocky | namhoc|
-|:---|:--- | ---: | :---:| :---:|
-|   |91002     |CSDL      |2         |2014-2015 |
-|   |91007     |CSDL      |2         |2014-2015 |
-|   |91023     |TKMC      |2         |2014-2015 |
-|   |91024     |VLDC      |1         |2014-2015 |
-|   |92001     |SHDC      |1         |2014-2015 |
-|   |92013     |SHDC      |1         |2014-2015 |
- 
- 
-|GIANG DAY|namhoc|hocky|mamh|phutrach|magv
-|:---|:--- | ---: | :---:|:---:|:---:|
-|   |2014-2015 |1|CTDL      |LT        |G001      
-|   |2014-2015 |1|CTDL      |TH        |G002      
-|   |2014-2015 |1|SHDC      |LT        |G007      
-|   |2014-2015 |1|VLDC      |LT        |G004      
-|   |2014-2015 |2|CNGE      |LT        |G007      
-|   |2014-2015 |2|CNGE      |TH        |G008      
-|   |2014-2015 |2|CSDL      |LT        |G002      
-|   |2014-2015 |2|TKMC      |LT        |G005      
-|   |2014-2015 |2|TKMC      |TH        |G006      
-
-|GIANG VIEN|magv|hoten|hocvi|hocham|makhoa
-|:---|:--- | ---: | :---:|:---:|:---:|
-|   |G001      |Nguyễn Văn Sự|TS||CNTT      
-|   |G002      |Nguyễn Ngọc Thúy|Ths||CNTT      
-|   |G003      |Trần Văn Năm|Ths||CNTT      
-|   |G004      |Trần Đồng Nai|TS|PGS|VL        
-|   |G005      |Nguyễn Kim Oanh|Ths||VL        
-|   |G006      |Bùi Mạnh Tứ|Ths||VL        
-|   |G007      |Nguyễn Văn Chín|TS|PGS|CNSH      
-|   |G008      |Lê Thị Mai|Ths||
-|   |G009      |Nguyễn Anh|Ths||
-
+<img src="https://user-images.githubusercontent.com/128796172/227575725-47333330-a4e8-47b5-af3f-6526735905ed.png">
+<img src="https://user-images.githubusercontent.com/128796172/227575739-5aadce3c-8967-4ef2-bc4a-6a74619ae3a1.png">
+<img src="https://user-images.githubusercontent.com/128796172/227575751-e37e2a2e-dec4-47bd-a141-8271b6c5b77d.png">
