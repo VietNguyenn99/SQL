@@ -9,9 +9,13 @@
 `--1.Danh sách mã số, họ tên sinh viên và tên những môn học mà những sinh viên có đăng ký học và có kết quả thi.`
 
 select sinhvien.masv, sinhvien.hosv, sinhvien.tensv, dangky.mamh, monhoc.tenmh, dangky.hocky, ketqua.diemlt, ketqua.diemth, ketqua.lanthi 
+
 from sinhvien
+
 join dangky on (sinhvien.masv = dangky.masv)
+
 join monhoc on (dangky.mamh = monhoc.mamh)
+
 join ketqua on (sinhvien.masv = ketqua.masv)
 
 
